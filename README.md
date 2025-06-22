@@ -42,13 +42,17 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 All citations follow standard BibTeX format. Example:
 
 ```bibtex
-@article{sultan2024mlafpxn,
-  title={MLAFP-XN: A neural network framework for predicting antifungal peptides using features},
-  author={Fahim Sultan and Tasmin Karim and Md. Shazzad Hossain Shaon},
-  journal={Heliyon},
-  volume={10},
-  number={6},
-  pages={e37820},
-  year={2024},
-  publisher={Cell Press}
+@article{SULTAN2024e37820,
+  title     = {MLAFP-XN: Leveraging neural network model for development of antifungal peptide identification tool},
+  author    = {Md. Fahim Sultan and Md. Shazzad Hossain Shaon and Tasmin Karim and Md. Mamun Ali and Md. Zahid Hasan and Kawsar Ahmed and Francis M. Bui and Li Chen and Vigneswaran Dhasarathan and Mohammad Ali Moni},
+  journal   = {Heliyon},
+  volume    = {10},
+  number    = {18},
+  pages     = {e37820},
+  year      = {2024},
+  issn      = {2405-8440},
+  publisher = {Elsevier},
+  doi       = {10.1016/j.heliyon.2024.e37820},
+  url       = {https://www.sciencedirect.com/science/article/pii/S2405844024138510},
+  keywords  = {Antifungal peptide, Neural network, Antifungal drug, Feature extraction, Feature selection, Drug discovery}
 }
