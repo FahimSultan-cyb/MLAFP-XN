@@ -39,7 +39,6 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 
 ## Citation Format
 
-All citations follow standard BibTeX format. Example:
 
 ```bibtex
 @article{SULTAN2024e37820,
