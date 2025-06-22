@@ -37,17 +37,18 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 ├── README.md
 
 
-## Citation
-<details> <summary>📚 BibTeX</summary>
+## Citation Format
+
+All citations follow standard BibTeX format. Example:
+
+```bibtex
 @article{sultan2024mlafpxn,
-  title     = {MLAFP-XN: A neural network framework for predicting antifungal peptides using feature fusion and SHAP interpretation},
-  author    = {Fahim Sultan and Tasmin Karim and Md. Shazzad Hossain Shaon},
-  journal   = {Heliyon},
-  volume    = {10},
-  issue     = {6},
-  pages     = {e37820},
-  year      = {2024},
-  publisher = {Cell Press},
-  doi       = {10.1016/j.heliyon.2024.e37820}
+  title={MLAFP-XN: A neural network framework for predicting antifungal peptides using features},
+  author={Fahim Sultan and Tasmin Karim and Md. Shazzad Hossain Shaon},
+  journal={Heliyon},
+  volume={10},
+  number={6},
+  pages={e37820},
+  year={2024},
+  publisher={Cell Press}
 }
-</details>
