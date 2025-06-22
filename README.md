@@ -23,6 +23,7 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 4. 🌐 **Web Tool Deployment**: Built a fully functional **web server** to demonstrate AFP prediction in real time: [Try the Model](https://immediate-rash-hire.anvil.app/)
 
 ---
+## 📁 Project Structure
 MLAFP-XN/
 
 ├── data/                         # Place unzipped datasets here
