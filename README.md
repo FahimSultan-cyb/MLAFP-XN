@@ -38,4 +38,15 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 
 
 
+@article{sultan2024mlafpxn,
+  title     = {MLAFP-XN: A neural network framework for predicting antifungal peptides using feature fusion and SHAP interpretation},
+  author    = {Fahim Sultan and Tasmin Karim and Md. Shazzad Hossain Shaon},
+  journal   = {Heliyon},
+  volume    = {10},
+  issue     = {6},
+  pages     = {e37820},
+  year      = {2024},
+  publisher = {Cell Press},
+  doi       = {10.1016/j.heliyon.2024.e37820}
+}
 
