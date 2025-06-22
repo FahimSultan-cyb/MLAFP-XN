@@ -37,7 +37,7 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 ├── README.md
 
 
-
+## Citation
 @article{sultan2024mlafpxn,
   title     = {MLAFP-XN: A neural network framework for predicting antifungal peptides using feature fusion and SHAP interpretation},
   author    = {Fahim Sultan and Tasmin Karim and Md. Shazzad Hossain Shaon},
