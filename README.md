@@ -24,19 +24,17 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 
 ---
 ## 📁 Project Structure
-MLAFP-XN/
-
-├── data/                         # Place unzipped datasets here
-│   ├── dataset1/
-│   ├── dataset2/
-│   └── dataset3/
-├── notebooks/                    # Move all `.ipynb` files here
-│   ├── dataset1_analysis.ipynb
-│   ├── dataset2_analysis.ipynb
-│   └── dataset3_analysis.ipynb
+├── data/ # Place unzipped datasets here
+│ ├── dataset1/
+│ ├── dataset2/
+│ └── dataset3/
+├── notebooks/ # Move all .ipynb files here
+│ ├── dataset1_analysis.ipynb
+│ ├── dataset2_analysis.ipynb
+│ └── dataset3_analysis.ipynb
 ├── README.md
-├── requirements.txt              # We'll generate this
-└── LICENSE                       # Add MIT license file
+├── requirements.txt # We'll generate this
+└── LICENSE # Add MIT license file
 
 
 
