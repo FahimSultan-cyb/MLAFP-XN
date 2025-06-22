@@ -28,3 +28,15 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 ---
 
 ## 📁 Repository Structure
+MLAFP-XN-main/
+├── Antifp_DS1, 2, 3(main).zip     # Zipped dataset
+├── D1 dataset code.ipynb          # Jupyter notebook for dataset 1
+├── d1_fungal.ipynb                # Another notebook for dataset 1
+├── d2 code.ipynb                  # Notebook for dataset 2
+├── dataset 3 main.ipynb           # Notebook for dataset 3
+├── README.md                      # Existing README
+
+
+conda create -n mlaffp-xn python=3.10
+conda activate mlaffp-xn
+pip install -r requirements.txt
