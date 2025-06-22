@@ -25,7 +25,10 @@ This work proposes **MLAFP-XN**, a deep learning-based strategy for classifying 
 ---
 ## Features
 Welcome to My Repo
-- Fast
+- ├── data/ # Place unzipped datasets here
+-│ ├── dataset1/
+-│ ├── dataset2/
+-│ └── dataset3/
 - Reliable
 
 ## 📁 Project Structure
